@@ -11,9 +11,9 @@ This is the source code for Paper "Cross-domain retinopathy classification with 
 
 
 ## Benchmark methods
-1. Run the python code `ADDA_vgg16_train.py' for ADDA
-2. Run the python code `CAT_vgg16_train.py' for CAT
-3. Run the python code `DDC_vgg16__train.py' for DDC
+1. Run the python code `ADDA_vgg16_train.py` for ADDA
+2. Run the python code `CAT_vgg16_train.py` for CAT
+3. Run the python code `DDC_vgg16__train.py` for DDC
 
 ## Proposed DDA method
-1. Run the python code `ADDA_EM_vgg16_train.py' for proposed method 
+1. Run the python code `ADDA_EM_vgg16_train.py` for proposed method 
